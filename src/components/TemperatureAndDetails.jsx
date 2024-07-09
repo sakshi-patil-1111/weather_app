@@ -29,7 +29,7 @@ function TemperatureAndDetails({
         <div className="flex flex-col space-y-2">
           <div className="flex font-light text-sm items-center justify-center">
             <FaTemperatureFull size={18} className="mr-3" />
-            Real fell:
+            Feels Like:
             <span className="font-medium ml-1">{`${feels_like.toFixed()}°`}</span>
           </div>
           <div className="flex font-light text-sm items-center justify-center">
