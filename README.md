@@ -21,7 +21,7 @@ npm install
 -Run the development server:
 npm run dev
 
-##Usage
+## Usage
 Open your browser and go to http://localhost:3000.
 Enter a city name in the search bar and click the search button.
 View the current weather information for the specified city.
